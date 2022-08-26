@@ -1,0 +1,2 @@
+export const STATUS_CHANGE = 'STATUS_CHANGE';
+export const COLOR_CHANGED = 'COLOR_CHANGED';
